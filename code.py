@@ -1,8 +1,8 @@
 import socket
 
 # กำหนดค่า Host และ Port ของหุ่นยนต์
-HOST = '192.168.1.33'  
-PORT = 7171
+HOST = ''  
+PORT = 
 
 # สร้าง Socket Object
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
