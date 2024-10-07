@@ -12,4 +12,16 @@ The LD-90 is designed to interact with people, promoting a collaborative and saf
 
 I use python language to write and use lib socket connect robot.
 
+Required Parameters
 
+Host IP: String e.g. 
+
+Host Port: String e.g. 
+
+robot commands
+
+b'dock\n' =  The robot returns to the charging station.
+b'undock\n' =  The robot leaves the charging station.
+b' stopped\n'  =  Order the robot to stop
+go =  Prepare to receive orders
+b'goto goal' + {Points determined from Omron's website which are numbers.}+ b'\n' = Order to go to the specified goal.
