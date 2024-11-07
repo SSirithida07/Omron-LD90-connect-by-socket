@@ -10,7 +10,6 @@ The LD-90 is designed to interact with people, promoting a collaborative and saf
 
 ![Omron LD90](https://github.com/user-attachments/assets/43f238bd-15bf-4586-8840-1647f2b384cb)
 
-## I Use Python Language to Write and Use Lib Socket to Connect Robot
 
 ### Required Parameters
 
