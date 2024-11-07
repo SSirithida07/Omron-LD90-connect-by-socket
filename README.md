@@ -24,3 +24,6 @@ The LD-90 is designed to interact with people, promoting a collaborative and saf
 - `b'stopped\n'` = Order the robot to stop.
 - `go` = Prepare to receive orders.
 - `b'goto goal' + {Points determined from Omron's website which are numbers.} + b'\n'` = Order to go to the specified goal.
+
+### ARCL Reference Guide
+https://assets.omron.eu/downloads/latest/manual/en/i617_advanced_robotics_command_language_(arcl)_reference_manual_en.pdf?v=14
